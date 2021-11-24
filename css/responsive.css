@@ -11,9 +11,11 @@
     }
     .left{
         width: 280px;
+        height: auto;
     }
     .right{
         width: 300px;
+        height: auto;
     }
     .b1{
         width: 300px;
